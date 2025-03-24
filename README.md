@@ -29,7 +29,7 @@
 
 </div>
 
-## Want to Contribute in this project? 🚀
+
 
 Here are the steps you need to do:
 
